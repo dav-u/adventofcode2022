@@ -8,5 +8,7 @@ fn main() {
     //days::day02a::day02_a();
     //days::day02b::day02_b();
     //days::day03::day03_a();
-    days::day03::day03_b();
+    //days::day03::day03_b();
+    //days::day04::day04_a();
+    days::day04::day04_b();
 }
